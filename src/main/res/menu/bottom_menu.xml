@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/kamera"
+        android:title="Camera"
+        android:icon="@drawable/baseline_photo_camera_24"/>
+
+    <item
+        android:id="@+id/gallery"
+        android:title="Gallery"
+        android:icon="@drawable/baseline_photo_library_24"/>
+
+    <item
+        android:id="@+id/magnifying"
+        android:title="Search"
+        android:icon="@drawable/baseline_search_24"/>
+
+
+</menu>
